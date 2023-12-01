@@ -39,12 +39,12 @@ education:
   courses:
     - course: IIIT Delhi
       institution: BTech in CSAI, 9.41*/10.0 CGPA
-      year: 2024
-    - course: Indraprastha International School, Delhi
+      year: 2020-2024
+    - course: Indraprastha International School
       institution: CBSE Grade XII, 95%
       year: 2020
-    - course: Indraprastha International School, Delhi
-      institution: CBSE Grade X, Delhi, 96%
+    - course: Indraprastha International School
+      institution: CBSE Grade X, 96%
       year: 2018
 
 # Skills
