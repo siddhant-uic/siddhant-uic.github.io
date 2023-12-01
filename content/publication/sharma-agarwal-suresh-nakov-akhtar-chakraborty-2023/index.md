@@ -3,7 +3,7 @@ title: What Do You MEME? Generating Explanations for Visual Semantic Role Labell
   in Memes
 authors:
 - Shivam Sharma
-- Siddhant \textbfAgarwal
+- Siddhant Agarwal
 - Tharun Suresh
 - Preslav Nakov
 - Md. Shad Akhtar
