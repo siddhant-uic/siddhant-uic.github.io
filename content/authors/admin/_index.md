@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: B.Tech. in Computer Science and AI
-      institution: IIIT Delhi, 9.41/10.0 CGPA
+      institution: IIIT Delhi, 9.41*/10.0 CGPA
       year: 2024
     - course: CBSE Class 12
       institution: Indraprastha International School, Delhi, 95%
@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Siddhant, a Computer Science and Artificial Intelligence Senior @ IIIT Delhi, India. I am interested in Natural Language Processing and actively researching in the field, having published at top conferences such AAAI. I am interesting in applying NLP for Social Good as my vision in life is to leverage my knowledge of technology to a good cause. I am also interested in understanding how to relate textual and visual content to get a better understanding of social media data which is increasingly visual.
+Hi, I am Siddhant, a Computer Science and Artificial Intelligence Senior @ IIIT Delhi, India. I am interested in Natural Language Processing and actively researching in the field, having published at top conferences such AAAI. I am interested in applying NLP for Social Good as my vision in life is to leverage my knowledge of technology to a good cause. I am also interested in understanding how to relate textual and visual content to get a better understanding of social media data which is increasingly visual.
 
 I am always up for collaborations, so if you have an idea in mind do not hesitate to hit me up!
 
