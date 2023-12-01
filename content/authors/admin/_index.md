@@ -37,14 +37,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech. in Computer Science and AI
-      institution: IIIT Delhi, 9.41*/10.0 CGPA
+    - course: IIIT Delhi
+      institution: BTech in CSAI, 9.41*/10.0 CGPA
       year: 2024
-    - course: CBSE Class 12
-      institution: Indraprastha International School, Delhi, 95%
+    - course: Indraprastha International School, Delhi
+      institution: CBSE Grade XII, 95%
       year: 2020
-    - course: CBSE Class 10
-      institution: Indraprastha International School, Delhi, 96%
+    - course: Indraprastha International School, Delhi
+      institution: CBSE Grade X, Delhi, 96%
       year: 2018
 
 # Skills
