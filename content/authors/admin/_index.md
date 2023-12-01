@@ -121,9 +121,9 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Siddhant, a Computer Science and Artificial Intelligence Senior @ IIIT Delhi, India. I am interested in Natural Language Processing and actively researching in the field, having published at top conferences such AAAI. I am interested in applying NLP for Social Good as my vision in life is to leverage my knowledge of technology to a good cause. I am also interested in understanding how to relate textual and visual content to get a better understanding of social media data which is increasingly visual.
+Hi, I am Siddhant, a Computer Science and Artificial Intelligence Senior @ IIIT Delhi, India. I am interested in Natural Language Processing and actively researching in the field, having published at top conferences such AAAI. I am interested in applying NLP for Social Good as my vision in life is to leverage my knowledge of technology to a good cause. I am also interested in understanding how to relate textual and visual content to get a better understanding of social media data which is increasingly visual. I am always up for collaborations, so if you have an idea in mind do not hesitate to hit me up!
 
-I am always up for collaborations, so if you have an idea in mind do not hesitate to hit me up!
+Besides being a nerd about computers, I am also a nerd about airplanes, travel and city planning. You can find me on youtube videos from my favourite channels Jet Lag: The Game, City Beautiful and Mentour Pilot.
 
 *Currently Looking for PhD positions in NLP for Fall 2024!*
 {style="text-align: justify;"}
