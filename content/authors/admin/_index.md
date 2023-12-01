@@ -29,7 +29,7 @@ bio: My research interests include NLP for Social Good and Grounding Language wi
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processings
+  - Natural Language Processing
   - NLP for Social Good
   - Language + Vision
   - Computational Social Science
