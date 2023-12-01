@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Science and AI Senior @ IIITD
+role: CS&AI Senior | NLP Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,12 +40,15 @@ education:
     - course: B.Tech. in Computer Science and AI
       institution: IIIT Delhi
       year: 2020-2024
+      grade: 9.41/10.0 CGPA
     - course: CBSE Class 12
       institution: Indraprastha International School, Delhi
       year: 2020
+      grade: 95%
     - course: CBSE Class 10
       institution: Indraprastha International School, Delhi
       year: 2018
+      grade: 96%
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,5 +124,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am Siddhant, a Computer Science and Artificial Intelligence Senior @ IIIT Delhi, India. I am interested in Natural Language Processing Research and learning more about the field.
+
+*Currently Looking for PhD positions in NLP for Fall 2024!*
 {style="text-align: justify;"}
