@@ -38,17 +38,14 @@ interests:
 education:
   courses:
     - course: B.Tech. in Computer Science and AI
-      institution: IIIT Delhi
-      year: 2020-2024
-      grade: 9.41/10.0 CGPA
+      institution: IIIT Delhi, 9.41/10.0 CGPA
+      year: 2024
     - course: CBSE Class 12
-      institution: Indraprastha International School, Delhi
+      institution: Indraprastha International School, Delhi, 95%
       year: 2020
-      grade: 95%
     - course: CBSE Class 10
-      institution: Indraprastha International School, Delhi
+      institution: Indraprastha International School, Delhi, 96%
       year: 2018
-      grade: 96%
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
