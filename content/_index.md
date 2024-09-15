@@ -240,15 +240,15 @@ sections:
       # phone: 888 888 88 88
       appointment_url: 'https://calendar.app.google/eu75q8nPki8G3RtJ8'
       address:
-        street: IIIT Delhi, Okhla Phase III
-        city: Delhi
-        postcode: '110075'
-        country: India
-        country_code: IND
+        street: 851 S Morgan St
+        city: Chicago, IL
+        postcode: '60607'
+        country: USA
+        country_code: USA
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '28.54572213145236'
-        longitude: '77.27312255268457'
+        latitude: '41.87149277148311'
+        longitude: '-87.64859452492557'
       contact_links:
         - icon: twitter
           icon_pack: fab
