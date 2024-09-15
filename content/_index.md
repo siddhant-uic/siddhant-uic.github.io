@@ -236,7 +236,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: siddhant20247@iiitd.ac.in
+      email: sagarw38@uic.edu
       # phone: 888 888 88 88
       appointment_url: 'https://calendar.app.google/eu75q8nPki8G3RtJ8'
       address:
