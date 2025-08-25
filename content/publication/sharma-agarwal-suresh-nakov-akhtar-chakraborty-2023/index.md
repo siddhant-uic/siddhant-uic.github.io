@@ -10,8 +10,7 @@ authors:
 - Tanmoy Chakraborty
 date: '2023-06-01'
 publishDate: '2023-12-01T19:11:46.083124Z'
-publication_types:
-- article-journal
+publication_types: ['paper-conference']
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 doi: 10.1609/aaai.v37i8.26166
 links:

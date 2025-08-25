@@ -7,8 +7,7 @@ authors:
 - Tanmoy Chakraborty
 date: '2024-08-01'
 publishDate: '2024-09-15T20:17:55.263567Z'
-publication_types:
-- paper-conference
+publication_types: ['paper-conference']
 publication: '*Findings of the Association for Computational Linguistics ACL 2024*'
 abstract: Memes have evolved as a prevalent medium for diverse communication, ranging
   from humour to propaganda. With the rising popularity of image-focused content,
