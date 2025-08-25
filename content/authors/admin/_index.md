@@ -30,15 +30,15 @@ bio: My research interests include NLP for Social Good and Grounding Language wi
 # Interests to show in About widget
 interests:
   - Natural Language Processing
+  - NLP in Healthcare
   - NLP for Social Good
   - Language + Vision
-  - Computational Social Science
 
 # Education to show in About widget
 education:
   courses:
     - course: University of Illinois at Chicago
-      institution: PhD in Computer Science
+      institution: PhD in Computer Science, 4.00*/4.00
       year: 2024-2028(expected)
     - course: IIIT Delhi
       institution: BTech in CSAI, 9.25/10.0 CGPA
