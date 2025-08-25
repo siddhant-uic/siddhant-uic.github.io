@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS&AI Senior | NLP Researcher
+role: PhD Student @ UIC | NLP Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,8 +37,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: University of Illinois at Chicago
+      institution: PhD in Computer Science
+      year: 2024-2028(expected)
     - course: IIIT Delhi
-      institution: BTech in CSAI, 9.41*/10.0 CGPA
+      institution: BTech in CSAI, 9.25/10.0 CGPA
       year: 2020-2024
     - course: Indraprastha International School
       institution: CBSE Grade XII, 95%
@@ -121,9 +124,9 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Siddhant, a Computer Science and Artificial Intelligence Senior @ IIIT Delhi, India. I am interested in Natural Language Processing and actively researching in the field, having published at top conferences such AAAI. I am interested in applying NLP for Social Good as my vision in life is to leverage my knowledge of technology to a good cause. I am also interested in understanding how to relate textual and visual content to get a better understanding of social media data which is increasingly visual. I am always up for collaborations, so if you have an idea in mind do not hesitate to hit me up!
+Hi, I am Siddhant, a Computer Science PhD Student at the University of Illinois Chicago working with Prof. Shweta Yadav on Healthcare NLP. I was previously a Computer Science and AI Undegrad @ IIIT Delhi, India, working. I am interested in Natural Language Processing and actively researching in the field, having published at top conferences such AAAI, ACL and NAACL. I am interested in applying NLP for Social Good as my vision in life is to leverage my knowledge of technology to a good cause. I am also interested in understanding how to relate textual and visual content to get a better understanding of social media data which is increasingly visual. I am always up for collaborations, so if you have an idea in mind do not hesitate to hit me up!
 
 Besides being a nerd about computers, I am also a nerd about airplanes, travel and city planning. You can find me binging on youtube videos from my favourite channels Jet Lag: The Game, City Beautiful and Mentour Pilot.
 
-*Currently Looking for PhD positions in NLP for Fall 2024!*
+*Currently Looking for PhD Researcher internships in NLP for Summer 2026!*
 {style="text-align: justify;"}
